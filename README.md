@@ -1,0 +1,2 @@
+# bitcoingametest
+only for tester
